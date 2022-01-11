@@ -1,3 +1,3 @@
 UPDATE students
-SET email = "new exmample"
+SET email = "new example"
 WHERE id = 1;
